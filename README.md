@@ -18,9 +18,7 @@ First Door Material
 
 First Door Blueprint
 
-![UnrealWitnessFirstDoorBlueprint](https://user-images.githubusercontent.com/6082364/66285214-9fca8200-e899-11e9-8726-434c909caf5b.PNG)
-
-
+![UnrealWitnessFirstDoorBlueprint](https://user-images.githubusercontent.com/6082364/66285587-6dba1f80-e89b-11e9-9f91-6c854d4db745.PNG)
 
 ### Second Room (normal difficulty)
 1. Sphere switch actor BP starts dark and lights up when hit
